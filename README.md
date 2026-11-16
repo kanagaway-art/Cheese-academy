@@ -5,7 +5,7 @@
 - チーズアカデミーサイトをなるべく再現
 
 ## ③アプリのデプロイURL
-
+https://kanagaway-art.github.io/Cheese-academy/
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 - ID: なし
